@@ -24,5 +24,8 @@ pause
 
  java -jar signapk.jar  platform.x509.pem   platform.pk8 old.apk new.apk
 
-eg:java -jar D:\2017\02\06\debug_sign_key\signapk.jar D:\2017\02\06\debug_sign_key\platform.x509.pem D:\2017\02\06\debug_sign_key\platform.pk8 C:\Users\sky90\Desktop\DesktopForCommon.apk C:\Users\sky90\Desktop\signed.apk
+举例如下:
+java -jar D:\2017\02\06\debug_sign_key\signapk.jar D:\2017\02\06\debug_sign_key\platform.x509.pem D:\2017\02\06\debug_sign_key\platform.pk8 C:\Users\sky90\Desktop\DesktopForCommon.apk C:\Users\sky90\Desktop\signed.apk
+
+
 ![资源放置位置](http://t3.qpic.cn/mblogpic/c27407de90facb438550/460)
