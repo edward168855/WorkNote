@@ -29,3 +29,34 @@ java -jar D:\2017\02\06\debug_sign_key\signapk.jar D:\2017\02\06\debug_sign_key\
 
 
 ![资源放置位置](http://t3.qpic.cn/mblogpic/c27407de90facb438550/460)
+
+
+
+###APP一般签名（生成release版本）
+
+Eclipse签名打包的两种方式：
+1.鼠标右键点击项目---Export---Android---Export Android Application
+2.鼠标右键点击项目---Android Tools---Export Android Application
+两种方式打包签名的apk都是release版本
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
