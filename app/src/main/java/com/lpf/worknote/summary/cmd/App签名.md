@@ -47,7 +47,8 @@ Eclipse签名打包的两种方式：
 
 举例：keytool -list -v -keystore com.ijiakj.child
 
-
+![示例图片](https://raw.githubusercontent.com/edward168855/WorkNote/master/app/src/main/res/mipmap-hdpi/20170214181143.png)
+![示例图片](https://github.com/edward168855/WorkNote/blob/master/app/src/main/res/mipmap-hdpi/20170214181220.png?raw=true)
 
 
 
