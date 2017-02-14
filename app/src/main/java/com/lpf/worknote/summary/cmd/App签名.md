@@ -47,10 +47,6 @@ Eclipse签名打包的两种方式：
 
 举例：keytool -list -v -keystore com.ijiakj.child
 
-![图片示例](http://t3.qpic.cn/mblogpic/80fb8eeac1a97ab5bfa4/120)
-![图片示例](http://t3.qpic.cn/mblogpic/044f7a12af97e9e22a6a/120)
-
-
 
 
 
