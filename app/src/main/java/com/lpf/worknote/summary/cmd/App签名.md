@@ -41,11 +41,14 @@ Eclipse签名打包的两种方式：
 
 
 
+###如何获取Android SHA1与Package
 
+下面是通过命令行获取SHA1值
 
+举例：keytool -list -v -keystore com.ijiakj.child
 
-
-
+![图片示例](file:///D:/Documents/My%20Knowledge/temp/6778cc05-74f8-4c08-8401-af12b23db920/128/index_files/a43a036c-a8d8-4135-8754-2a5539b92544.png)
+![图片示例](file:///D:/Documents/My%20Knowledge/temp/6778cc05-74f8-4c08-8401-af12b23db920/128/index_files/680d226b-5b73-4bdd-b4ea-028ab813095c.png)
 
 
 
